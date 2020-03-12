@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./Users/Jenn/Dropbox/1GraceHopper/09 ORM_WikiStack 1/wikistack/app.js"
+    "start": "nodemon ./Users/felicia/GHJuniorPhase/wikistack/app.js"
   },
   "keywords": [],
   "author": "",
