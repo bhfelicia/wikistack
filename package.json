@@ -4,14 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./Users/felicia/GHJuniorPhase/wikistack/app.js"
+    "start": "nodemon ./Users/Jenn/Dropbox/1GraceHopper/09 ORM_WikiStack 1/wikistack/app.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "morgan": "^1.9.1"
+    "html-template-tag": "^3.2.0",
+    "morgan": "^1.9.1",
+    "pg": "^7.18.2",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
